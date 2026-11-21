@@ -3,10 +3,10 @@
   "minAndroid": "Android 7.0 (API 24)",
   "updated": "2026-11-21",
   "apks": [
-    {"key":"arm64-v8a","name":"HokTifyy Android ARM64-v8a","arch":"ARM 64-bit (arm64-v8a)","sizeBytes":44607907,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/v1.0.0%2B1/HokTifyy-android-arm64-v8a.apk","recommended":true,"button":"Download ARM64","desc":"Untuk sebagian besar smartphone Android modern dengan prosesor ARM 64-bit."},
-    {"key":"armeabi-v7a","name":"HokTifyy Android ARMv7","arch":"ARM 32-bit (armeabi-v7a)","sizeBytes":43698005,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/v1.0.0%2B1/HokTifyy-android-armeabi-v7a.apk","button":"Download ARMv7","desc":"Untuk perangkat Android ARM 32-bit yang kompatibel."},
-    {"key":"universal","name":"HokTifyy Android Universal","arch":"Universal (arm64-v8a, armeabi-v7a, x86_64)","sizeBytes":78016849,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/v1.0.0%2B1/HokTifyy-android-universal.apk","button":"Download Universal","desc":"Satu APK untuk arsitektur yang didukung. Ukurannya lebih besar."},
-    {"key":"x86_64","name":"HokTifyy Android x86_64","arch":"x86 64-bit (x86_64)","sizeBytes":45085709,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/v1.0.0%2B1/HokTifyy-android-x86_64.apk","button":"Download x86_64","desc":"Untuk perangkat Android berbasis Intel/AMD 64-bit, termasuk banyak emulator."}
+    {"key":"arm64-v8a","name":"HokTifyy Android ARM64-v8a","arch":"ARM 64-bit (arm64-v8a)","sizeBytes":44607907,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/1.0.0/HokTifyy-android-arm64-v8a.apk","recommended":true,"button":"Download ARM64","desc":"Untuk sebagian besar smartphone Android modern dengan prosesor ARM 64-bit."},
+    {"key":"armeabi-v7a","name":"HokTifyy Android ARMv7","arch":"ARM 32-bit (armeabi-v7a)","sizeBytes":43698005,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/1.0.0/HokTifyy-android-armeabi-v7a.apk","button":"Download ARMv7","desc":"Untuk perangkat Android ARM 32-bit yang kompatibel."},
+    {"key":"universal","name":"HokTifyy Android Universal","arch":"Universal (arm64-v8a, armeabi-v7a, x86_64)","sizeBytes":78016849,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/1.0.0/HokTifyy-android-universal.apk","button":"Download Universal","desc":"Satu APK untuk arsitektur yang didukung. Ukurannya lebih besar."},
+    {"key":"x86_64","name":"HokTifyy Android x86_64","arch":"x86 64-bit (x86_64)","sizeBytes":45085709,"url":"https://github.com/azhar83mhmmd-art/HokTifyy/releases/download/1.0.0/HokTifyy-android-x86_64.apk","button":"Download x86_64","desc":"Untuk perangkat Android berbasis Intel/AMD 64-bit, termasuk banyak emulator."}
   ],
   "features": [
     {"t":"Music Streaming","d":"Putar musik langsung dari internet.","on":true},
